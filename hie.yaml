@@ -1,4 +1,4 @@
 cradle:
-  stack:
+  cabal:
     - path: "src"
-      component: "hls-conditional-modules:lib"
+      component: "lib:hls-conditional-modules"

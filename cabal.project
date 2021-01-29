@@ -1,0 +1,3 @@
+packages: hls-conditional-modules.cabal
+package hls-conditional-modules
+  flags: -disable-lib2
