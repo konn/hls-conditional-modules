@@ -1,0 +1,9 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/0.yaml
+
+packages:
+- .
+
+flags:
+  hls-conditional-modules:
+    disable-lib2: false
